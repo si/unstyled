@@ -1,0 +1,8 @@
+*** WooDojo Changelog ***
+	
+2012.04.12 - version 1.0.1
+ * /classes/utils.class.php - Fix for some servers not seeing past the main "bundled" directory into the subdirectories.
+ * /classes/base.class.php - Additional line to cater for Windows servers not seeing the base plugin path correctly.
+
+2012.04.11 - version 1.0.0
+ * First release!
