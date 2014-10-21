@@ -15,7 +15,7 @@
 			<?php do_action( 'ryu_credits' ); ?>
 			<a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'ryu' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'ryu' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'ryu' ), 'Ryu', '<a href="http://automattic.com/" rel="designer">Automattic</a>' ); ?>
+			Follow <a href="https://twitter.com/Si">Si</a> for recent updates
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
